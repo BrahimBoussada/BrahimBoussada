@@ -1,16 +1,40 @@
-## Hi there 👋
+### 👋 Hi there
 
-<!--
-**BrahimBoussada/brahimboussada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer focused on building secure, scalable, and well-designed web applications.
 
-Here are some ideas to get you started:
+Currently pursuing a Master’s in Cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+🎨 Figma Community Designs
+
+- **[Bibata Cursor UI Library](https://www.figma.com/community/file/1587299628688776002/bibata-cursor-ui-library)**
+
+- **[Tails OS – Complete Illustration Kit](https://www.figma.com/community/file/1580497351998319510/tails-os-complete-illustration-kit-brand-assets)**
+
+- **[Linux Distros Logo Library](https://www.figma.com/community/file/1579494157547266102/linux-distros-logo-library)**
+
+- **[Tux the Linux Penguin](https://www.figma.com/community/file/1579494157547266102/linux-distros-logo-library)** 
+
+<br>
+
+ 🎓 Education
+
+- Bachelor’s in Software Engineering (2019 – 2024)
+- Master’s in Cybersecurity (2025 – Present)
+
+<br>
+
+ 🧠 Interests
+
+- Full-Stack Development
+- Cybersecurity & Secure Systems
+- UI/UX & Design Systems
+- Open Source
+
+<br>
+
+📫 Connect with me
+
+- GitHub: [@BrahimBoussada](https://github.com/BrahimBoussada)
+- LinkedIn: [@brahim-boussada-pro](https://www.linkedin.com/in/brahim-boussada-pro/)
