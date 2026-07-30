@@ -6,7 +6,7 @@ Currently pursuing a Master’s in Cybersecurity.
 
 <br>
 
-🎨 Figma Community Designs
+🎨 My Figma Community Designs
 
 - **[Bibata Cursor UI Library](https://www.figma.com/community/file/1587299628688776002/bibata-cursor-ui-library)**
 
